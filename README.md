@@ -1,5 +1,3 @@
-credit to beforeblazergithub for the base design. 
-
 Go Check Out The Page on:(https://daxerous-z.github.io/Supreme-Hyperion/)
 
 Alternate Place to run this:
