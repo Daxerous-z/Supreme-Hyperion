@@ -69,7 +69,7 @@ nav h1 {
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1.5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Press Start 2P', system-ui;
     z-index: 1;
     outline: none;
 }
@@ -89,7 +89,7 @@ nav h1 {
     font-weight: 600;
     padding: 0.8vw 1vw;
     cursor: pointer;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Press Start 2P', system-ui;
     z-index: 1;
     transition: .3s all ease;
 }
