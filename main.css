@@ -5,7 +5,7 @@ font-family: "Press Start 2P", system-ui;
 
 body {
     background-color: #4C55C1;
-    font-family: 'Press Start 2P', system-ui;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav {
@@ -69,7 +69,7 @@ nav h1 {
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1.5vw;
-    font-family: 'Press Start 2P', system-ui;
+    font-family: 'Montserrat', sans-serif;
     z-index: 1;
     outline: none;
 }
@@ -89,7 +89,7 @@ nav h1 {
     font-weight: 600;
     padding: 0.8vw 1vw;
     cursor: pointer;
-    font-family: 'Press Start 2P', system-ui;
+    font-family: 'Montserrat', sans-serif;
     z-index: 1;
     transition: .3s all ease;
 }
