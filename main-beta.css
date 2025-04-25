@@ -4,8 +4,15 @@
 
 
 body {
-    background-color: #9e2820;
+    background-color: #;
     font-family: 'Press Start 2P', system-ui;
+}
+
+body {
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Make the body take the full height of the viewport */
+  width: 100vw; /* Ensure the body covers the full width of the viewport */
+  background: linear-gradient(to bottom, #f51d1d, #9e2820);
 }
 
 nav {
