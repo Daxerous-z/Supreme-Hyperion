@@ -2,12 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 
-.rounded-rectangle {
-    width: 200px; /* Width of the rectangle */
-    height: 100px; /* Height of the rectangle */
-    background-color: #4CAF50; /* Background color */
-    border-radius: 15px; /* Corner radius */
-}
 
 body {
     background-color: #4C55C1;
